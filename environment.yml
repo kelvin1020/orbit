@@ -1,7 +1,8 @@
 dependencies:
   - python=3
+  - numpy
+  - pip
   - pip:
     - matplotlib
-    - numpy
     - scipy
     - moviepy
